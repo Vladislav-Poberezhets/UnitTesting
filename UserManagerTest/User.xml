@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+	<User userid ="Vlad" telephone =" +380 95 856 13 22" email="vlad444242232@ukr.net"/>
+	<User userid ="Oleg" telephone =" +380 95 856 13 22" email="oleg3232@ukr.net"/>
+	<User userid ="Andrew" telephone =" +380 95 856 13 22" email="Andrw442@ukr.net"/>
+	<User userid ="Kolya" telephone =" +380 97 856 13 22" email="Kolat@ukr.net"/>
+	<User userid ="Olya" telephone =" +380 95 423 13 22" email="Olgahas@ukr.net"/>
+	<User userid ="Mike" telephone =" +380 95 856 13 22" email="Tyson23@ukr.net"/>
+	<User userid ="Conor" telephone =" +380 93 856 13 22" email="Conorsro@ukr.net"/>
+	<User userid ="Leonid" telephone =" +380 95 856 13 22" email="Leodsd@ukr.net"/>
+	<User userid ="Kate" telephone =" +380 95 856 13 22" email="KAtetinr@ukr.net"/>
+
+</UserDetails>
